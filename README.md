@@ -12,8 +12,7 @@ Custom Knowledge ChatGPT with LangChain - Chat with PDFs
 For demonstration purpose, I've used Game of thrones book pdf (pdf can be found in the repo.)
 
 Here are the set of questions asked to the model. All the questions were answered with 100% accuracy.
-
-
+![Screenshot 2024-02-20 163215](https://github.com/prayagpadwal/Chat_with_pdf_-ChatGPT-using-Langchain/assets/65147413/cf70c3be-c944-425b-9586-7440edaa1295)
 
 Thanks to Liam Ottley for guiding through this project through his informative youtube video:
 
